@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229723571811",
+    "project_id": "smasnotif-ac460",
+    "storage_bucket": "smasnotif-ac460.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229723571811:android:48de2ccabca8e8f35d1a56",
+        "android_client_info": {
+          "package_name": "com.example.survey_outlet_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtPAhf9dqeqY4ddTDuT5m9I_N02z16_tU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

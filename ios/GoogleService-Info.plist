@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCIszUD6WTysLRz6YJreNHsfKtG0N4zbLM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>229723571811</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.surveyOutletApp</string>
+	<key>PROJECT_ID</key>
+	<string>smasnotif-ac460</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smasnotif-ac460.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:229723571811:ios:2c5ef08052ef6ede5d1a56</string>
+</dict>
+</plist>
